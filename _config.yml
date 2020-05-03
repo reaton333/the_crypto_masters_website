@@ -13,7 +13,7 @@ url: "thecryptomasters.com"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /the_crypto_masters_website
+#baseurl: /the_crypto_masters_website
 
 # Google tracking id
 
