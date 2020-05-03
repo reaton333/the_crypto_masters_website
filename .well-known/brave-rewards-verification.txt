@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: thecryptomasters.com
-Token: a838bf56f9923d4e6ce501b6f1f0ba21600665f16d69d8aa218bb2c1700a7dc9
