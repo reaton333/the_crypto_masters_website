@@ -30,8 +30,8 @@ force-https: True
 
 lang: "en"
 author: "TheCryptoMasters"
-title: "The Crypto Masters Podcast"
-description: "The Crypto Masters podcast! Helping the general public to master an understanding of crypto assets."
+title: "The Crypto Masters"
+description: "The Crypto Masters podcast. Helping the general public to master an understanding of crypto assets."
 keywords: "crypto, cryptocurrency, cryptocurrencies, bitcoin, blockchain, investing, podcast, podcasting, invest, altcoin, litecoin, ethereum, eos"
 favicon: "/img/favicon.ico"
 
@@ -58,7 +58,6 @@ lines: # You can add HTML Tags in the Text
   - text: "We don't predict short term price movements"
   - text: "We help the public make their own decisions"
   - text: "Not for short-term traders"
-  - text: "Knowledge is power"
 
 me-img: "/img/theCryptoMasters_logo.jpg"
 
